@@ -55,6 +55,9 @@ How to change:
 https://www.youtube.com/watch?v=mdxeFDZ5wZU
 
 
+## Disclaimer:
+I have no background in automotives or emmisions engineering. Information is provided totally at users risk. Working on internal combustion engines has
+multiple safety issues to be aware of, and proper workplace, tools, and training are required. This information is for education only, no warranties expressed or applied. 
 
 
 
