@@ -24,7 +24,8 @@ The Part: (This is the 5 minute version - I didnt analyze for level of detail, t
 Bosal® - Premium Load Universal Fit Catalytic Converter more details on - https://www.carid.com/2011-infiniti-qx56-exhaust-parts/bosal-universal-fit-catalytic-converter-p-1431355886.html
 Cost: 145.31
 
-### Specific Part
+### Specific Part 
+Cost of $583.97 + $25 Shipping 
 
 Part Number:	INF4525P 
 Description:	QX56 WITH 5.6L FRONT MANIFOLD CONVERTER PASSENGER SIDE BANK 2 
@@ -35,15 +36,9 @@ Model:	QX56
 Cylinders:	8 
 Inlet Gasket Included:	N 
 Outlet Gasket Included:	N 
-Inlet Hardware Included:	
-Outlet Hardware Included:	
-BOXED:	
-DEC Inlet: 	MG90 
-DEC Outlet: 	RG15 
-E P/N:	 
-Freight Charges Apply	
-Ground:	$25.00
-https://www.discountconverter.com/direct_fit_catalytic_converters/direct_fit_detail.cfm?productID=516071
+Freight Charges Appl
+Ground:	$25.00 
+https://www.discountconverter.com/direct_fit_catalytic_converters/direct_fit_detail.cfm?productID=516071 
 
 
 ## Which way to go (Universal / Direct Fit):
