@@ -17,7 +17,7 @@ Infiniti QX56 Catalytic Converter Replacement Cost
 The average cost for an Infiniti QX56 catalytic converter replacement is between $1,640 and $1,721.
 Labor costs are estimated between $308 and $389 while parts are priced at $1,332.  This range does not include taxes and fees, and does not factor in your unique location. Related repairs may also be needed. 
 
-##Two Quick Choices
+## Two Possible Choices:
 
 ### Universal Fit:
 The Part: (This is the 5 minute version - I didnt analyze for level of detail, there alot of brands/variations)
